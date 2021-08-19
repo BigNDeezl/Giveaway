@@ -1,3 +1,4 @@
+#! /usr/bin/python3
 # THE ENCHANTED SCROLL
 # Script opens a file containing list of email addresses used to
 # Enter a giveaway.  List 'entries' is created, and then
